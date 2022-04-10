@@ -1,27 +1,29 @@
-# AngularD3Examples
+# D3 Charts Examples in Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+This project is based on:
+- [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2
+- [D3.js](https://github.com/d3/d3) version xx
+- [Angular Material](https://material.angular.io/) version 13.3.2
 
-## Development server
+Required Tools:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- npm
+- Nodejs
+- Angular CLI
+- VSCode (Optional)
 
-## Code scaffolding
+## Run this project
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+First, run `npm install --save` to install or update all dependencies from package.json.
 
-## Build
+After, run `ng serve` or `npm start` for a dev server. Navigate to `http://localhost:4200/`. The examples can be access by left nav menu.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Examples
 
-## Running unit tests
+### Bubble Chart
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Xxx
 
-## Running end-to-end tests
+### Pie Chart
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Xxx
