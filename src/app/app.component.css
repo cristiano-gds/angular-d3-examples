@@ -14,7 +14,11 @@ mat-sidenav-container {
 mat-sidenav {
     width: 250px;
     background: #2d3139;
-    padding: 16px;
+}
+
+.side-nav-title {
+    margin: 16px;
+    text-align: center;
 }
 
 mat-sidenav-content {

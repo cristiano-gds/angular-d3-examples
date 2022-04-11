@@ -5,12 +5,12 @@
 </p>
 <mat-sidenav-container>
     <mat-sidenav mode="side" opened class="nav">
-        <h1 class="text-nav-style">Examples</h1>
-        <mat-list>
-            <mat-list-item class="text-nav-style">Bubble Chart</mat-list-item>
+        <h1 class="side-nav-title text-nav-style">Examples</h1>
+        <mat-nav-list>
+            <mat-list-item class="text-nav-style" [routerLink]="['/trending-circles']">Trending Circles</mat-list-item>
             <mat-list-item class="text-nav-style">World Cloud Chart</mat-list-item>
             <mat-list-item class="text-nav-style">Pie Chart</mat-list-item>
-        </mat-list>
+        </mat-nav-list>
     </mat-sidenav>
     <mat-sidenav-content>
         <router-outlet></router-outlet>

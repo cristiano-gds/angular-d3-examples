@@ -10,11 +10,13 @@ import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatListModule } from '@angular/material/list';
 import { HomeComponent } from './home/home.component';
 import { MatCardModule } from '@angular/material/card';
+import { TrendingCirclesComponent } from './charts/trending-circles/trending-circles.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    HomeComponent
+    HomeComponent,
+    TrendingCirclesComponent
   ],
   imports: [
     BrowserModule,

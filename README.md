@@ -45,9 +45,9 @@ After, run `ng serve` or `npm start` for a dev server. Navigate to `http://local
 
 ## :chart: Chart Examples
 
-### Bubble Chart
+### Trending Circles
 
-Xxx
+Based on [Bubble Chart](https://observablehq.com/@d3/bubble-chart).
 
 ### Pie Chart
 
