@@ -3,10 +3,9 @@
   <p align="center">
     An Angular Material portal with multiple D3 Chart Examples
   </p>
-
+  <h6>:construction: Under Construction!!! :rocket:  :construction:</h6>
+  <br />
 </div>
-
-<center>:construction: Under Construction!!! :rocket:  :construction:</center>
 
 <br />
 <details>
